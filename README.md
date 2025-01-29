@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iscompg
-- 👀 I’m interested in Artificial Intelligence and Cyber security
-- 🌱 I’m currently learning Python and WebDev
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning ML
 - 📫 How to reach me - ishani.arora2005@gmail.com
 
 
