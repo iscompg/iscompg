@@ -16,7 +16,11 @@ Deployment & AI Product Building
 
 ## Connect with me here- 
 LinkedIn- https://www.linkedin.com/in/ishani-arora-990959273
+
 Email- ishani.arora2005@gmail.com
+
+
+[![Ishani's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscompg&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)]
 
 <!---
 iscompg/iscompg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
