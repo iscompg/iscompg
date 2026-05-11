@@ -1,6 +1,7 @@
 ### Hi, I’m Ishani!
 
 AI/ML developer exploring various systems.
+
 Student
 
 I enjoy building practical AI projects that combine machine learning with real-world usability, especially in healthcare, accessibility, and productivity-focused applications.
