@@ -11,7 +11,7 @@ AI/ML student exploring stuff.
   <h3 align="left">Languages</h3>
   <p align="left">
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width='50'height='50' alt="Python" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
