@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../banner.webp" />
+  <img src="banner.png" alt='iscompg' />
 </p>
 
 ### Hi, I'm Ishani!
@@ -79,10 +79,10 @@ AI/ML student exploring stuff.
   </p>
 
 
-## Connect with me here- 
+## Connect here:
 <a href="https://www.linkedin.com/in/ishani-arora-990959273" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='50' width='50' alt='LinkedIn"/>
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='50' width='50' alt='LinkedIn'/>
+  </a>
           
 ishani.arora2005@gmail.com
 
