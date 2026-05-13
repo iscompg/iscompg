@@ -9,7 +9,11 @@ AI/ML student exploring stuff.
   <!-- Languages -->
   <h3 align="left">Languages</h3>
   <p align="left"> 
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css", alt='python/>
+    <div>
+  <h3 align="left">Languages</h3>
+
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50", alt='python/> 
   </p>     
   
   <!-- Frameworks -->
