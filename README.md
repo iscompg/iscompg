@@ -14,45 +14,59 @@ AI/ML student exploring stuff.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width='50'height='50' alt="Python" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width='50'height='50' alt="AWS" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width='50' height='50' alt="C++" />
+    </a>
+    </a>
+      <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height='50' width='50' alt='C'/>
+    </a>     
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height='50' width='50' alt='MysSQL' />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='50' width='50' alt="HTML5" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='50' width='50' alt="CSS3" />
     </a>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height='50' width='50' alt='Firebase'/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height='50' width='50' alt='Flask'/> 
     </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height='50' width='50' alt='GitHub'/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height='50' width='50' alt='VSCode'/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height='50' width='50' alt='Jupyter'/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height='50' width='50' alt='Streamlit'/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height='50' width='50' alt='Linux'/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height='50' width='50' alt='Firebase'/> 
+    </a>       
   </p>
   
-  <!-- Frameworks -->
-  <h3 align="left">Frameworks</h3>
-  <p align="left">
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-    </a>
-  </p>
+
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iscompg&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iscompg&theme=tokyonight&hide_border=true" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iscompg&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscompg&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## Connect with me here- 
 LinkedIn- https://www.linkedin.com/in/ishani-arora-990959273
