@@ -1,10 +1,12 @@
-### Hi, I’m Ishani!
+<p align="center">
+  <img src="../banner.webp" />
+</p>
+
+### Hi, I'm Ishani!
 
 AI/ML student exploring stuff.
 
 
-
-<h2 align="left">🛠️ My Tech Stack</h2>
 
 <div>
   <!-- Languages -->
@@ -55,8 +57,17 @@ AI/ML student exploring stuff.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height='50' width='50' alt='Linux'/> 
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height='50' width='50' alt='Firebase'/> 
-    </a>       
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height='50' width='50' alt='Jira'/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height='50' width='50' alt='Vercel'/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height='50' width='50' alt='Git'/> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height='50' width='50' alt='MongoDB'/> 
+    </a>         
   </p>
   
 
@@ -69,9 +80,11 @@ AI/ML student exploring stuff.
 
 
 ## Connect with me here- 
-LinkedIn- https://www.linkedin.com/in/ishani-arora-990959273
-
-Email- ishani.arora2005@gmail.com
+<a href="https://www.linkedin.com/in/ishani-arora-990959273" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> linkedin
+</a>
+          
+ishani.arora2005@gmail.com
 
 
 
