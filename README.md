@@ -1,48 +1,16 @@
 ### Hi, I’m Ishani!
 
-AI/ML developer exploring various systems.
+AI/ML student exploring stuff.
 
-Student
-
-I enjoy building practical AI projects that combine machine learning with real-world usability, especially in healthcare, accessibility, and productivity-focused applications.
-
-<h2>🚀 Currently Exploring</h2>
-
-<ul>
-  <li>Transformers & Fine-Tuning</li>
-  <li>Multimodal AI Systems</li>
-  <li>Deep Learning with CNNs</li>
-  <li>NLP Pipelines & Sentiment Analysis</li>
-  <li>Open Source Contributions</li>
-  <li>Deployment & AI Product Building</li>
-</ul>
 
 <h2 align="left">🛠️ My Tech Stack</h2>
 
 <div>
   <!-- Languages -->
   <h3 align="left">Languages</h3>
-  <p align="left">
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-    </a>
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </a>
-  </p>
+  <p align="left"> 
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css", alt='python/>
+  </p>     
   
   <!-- Frameworks -->
   <h3 align="left">Frameworks</h3>
