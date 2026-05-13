@@ -2,14 +2,14 @@
   <img src="https://github.com/user-attachments/assets/b58a42e4-b8cd-47b4-8e59-5b6711c85d92" width =100% alt='iscompg'/>
 </p>
 
-<p>Hi, I'm Ishani!</p>
-<p>AI/ML student exploring stuff.</p>
+<p>Hi, I'm Ishani!
+AI/ML student exploring stuff.</p>
 
 
 
 <div>
   <!-- Languages -->
-  <h3 align="left">Languages</h3>
+  <h3 align="centre">Languages</h3>
   <p align="left">
     <a href="#" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width='50'height='50' alt="Python" />
@@ -79,10 +79,11 @@
 
 
 <h3 align="left">Connect Here:</h3>
+<p>
 <a href="https://www.linkedin.com/in/ishani-arora-990959273" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='50' width='50' alt='LinkedIn'/>
-  </a>
-<p>📧 ishani.arora2005@gmail.com</p>
+  </a>   📧 ishani.arora2005@gmail.com
+  </p>
 
 
 
