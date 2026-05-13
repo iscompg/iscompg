@@ -74,7 +74,7 @@ AI/ML student exploring stuff.
 <h2 align="center">GitHub Stats</h2>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iscompg&theme=github-dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iscompg&theme=github-dark&hide_border=true" width=100%/>
   </p>
 
 
