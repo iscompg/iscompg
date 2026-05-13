@@ -8,7 +8,7 @@
 
 <div>
   <!-- Languages -->
-  <h3 align="center">Languages</h3>
+  <h2 align="center">Languages</h2>
   <p align="left">
     <a href="#" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width='50'height='50' alt="Python" />
