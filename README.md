@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt='iscompg' />
+  <img width="553" height="311" alt="banner" src="https://github.com/user-attachments/assets/b58a42e4-b8cd-47b4-8e59-5b6711c85d92" alt='iscompg'/>
 </p>
 
 ### Hi, I'm Ishani!
