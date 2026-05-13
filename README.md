@@ -83,7 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='50' width='50' alt='LinkedIn'/>
   </a>   
   <a href="mailto:ishani.arora2005@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt='Gmail/> 
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt='Gmail'/> 
 </a>
   </p>
 
