@@ -2,8 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b58a42e4-b8cd-47b4-8e59-5b6711c85d92" width =100% alt='iscompg'/>
 </p>
 
-<p>Hi, I'm Ishani!
-AI/ML student exploring stuff.</p>
+<p>Hi, I'm Ishani, just exploring stuff!</p>
 
 
 
@@ -82,7 +81,10 @@ AI/ML student exploring stuff.</p>
 <p>
 <a href="https://www.linkedin.com/in/ishani-arora-990959273" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='50' width='50' alt='LinkedIn'/>
-  </a>   📧 ishani.arora2005@gmail.com
+  </a>   
+  <a href="mailto:ishani.arora2005@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt='Gmail/> 
+</a>
   </p>
 
 
