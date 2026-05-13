@@ -3,7 +3,6 @@
 </p>
 
 ### Hi, I'm Ishani!
-
 AI/ML student exploring stuff.
 
 
@@ -75,16 +74,15 @@ AI/ML student exploring stuff.
 <h2 align="center">GitHub Stats</h2>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iscompg&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iscompg&theme=github-dark&hide_border=true" />
   </p>
 
 
-## Connect here:
+<h3 align="left">Connect Here:</h3>
 <a href="https://www.linkedin.com/in/ishani-arora-990959273" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='50' width='50' alt='LinkedIn'/>
   </a>
-          
-ishani.arora2005@gmail.com
+📧 ishani.arora2005@gmail.com
 
 
 
